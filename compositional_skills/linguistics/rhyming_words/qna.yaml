@@ -1,0 +1,12 @@
+version: 3
+created_by: riona
+seed_examples:
+  - answer: 'Two rhyming words for dove are
+
+     love
+
+     glove
+
+      '
+    question: List five rhyming words for the word dove and separate with newline.
+task_description: to teach a large language model to list the rhyming words for a word.
