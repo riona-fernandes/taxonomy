@@ -9,4 +9,36 @@ seed_examples:
 
       '
     question: List five rhyming words for the word dove and separate with newline.
+  - answer: 'Two rhyming words for cake are
+
+     bake
+
+     lake
+
+      '
+    question: List five rhyming words for the word cake and separate with newline.
+  - answer: 'Two rhyming words for like are
+
+     bike
+
+     hike
+
+      '
+    question: List three rhyming words for the word like and separate with newline.
+  - answer: 'Two rhyming words for all are
+
+     tall
+
+     ball
+
+      '
+    question: List five rhyming words for the word all and separate with newline.
+  - answer: 'Two rhyming words for cook are
+
+     hook
+
+     book
+
+      '
+    question: List two rhyming words for the word cook and separate with newline.
 task_description: to teach a large language model to list the rhyming words for a word.
