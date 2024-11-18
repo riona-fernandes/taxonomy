@@ -70,7 +70,5 @@ seed_examples:
      glove
 
       '
-    question: 'List five rhyming words for the word dove.
-    
-    '
+    question: List five rhyming words for the word dove and separate with newline.
 task_description: to teach a large language model to list the synonyms for a word.
