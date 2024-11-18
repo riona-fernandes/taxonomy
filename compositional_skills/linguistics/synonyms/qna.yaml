@@ -63,4 +63,14 @@ seed_examples:
 
       '
     question: List five antonyms for the word attend and separate with newline.
+  - answer: 'Two rhyming words for dove are
+
+     love
+
+     glove
+
+      '
+    question: 'List five rhyming words for the word dove.
+    
+    '
 task_description: to teach a large language model to list the synonyms for a word.
